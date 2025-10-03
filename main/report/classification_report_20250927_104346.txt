@@ -1,0 +1,33 @@
+# 分类报告
+                        precision    recall  f1-score   support
+
+           drink water     0.8089    0.6865    0.7427       185
+        eat meal/snack     0.6761    0.6432    0.6593       185
+          sitting down     0.9326    0.8925    0.9121       186
+           standing up     0.9831    0.9511    0.9669       184
+           wear jacket     0.9617    0.9462    0.9539       186
+       take off jacket     0.9659    0.9140    0.9392       186
+           wear a shoe     0.6452    0.6486    0.6469       185
+       take off a shoe     0.6136    0.5838    0.5983       185
+            phone call     0.7411    0.7849    0.7624       186
+play with phone/tablet     0.6970    0.7459    0.7206       185
+    type on a keyboard     0.6916    0.7957    0.7400       186
+          sneeze/cough     0.7791    0.7204    0.7486       186
+            staggering     0.9000    0.8226    0.8596       186
+          falling down     0.8927    0.9839    0.9361       186
+              headache     0.6930    0.8011    0.7431       186
+            chest pain     0.7389    0.7151    0.7268       186
+             back pain     0.8220    0.8441    0.8329       186
+             neck pain     0.6633    0.7097    0.6857       186
+       nausea/vomiting     0.7656    0.8602    0.8101       186
+              fan self     0.8418    0.7151    0.7733       186
+       walking towards     0.7850    0.8441    0.8135       186
+         walking apart     0.8503    0.7634    0.8045       186
+
+              accuracy                         0.7897      4085
+             macro avg     0.7931    0.7896    0.7898      4085
+          weighted avg     0.7931    0.7897    0.7899      4085
+
+
+# 类别顺序 (old ids):
+1,2,8,9,14,15,16,17,28,29,30,41,42,43,44,45,46,47,48,49,59,60
